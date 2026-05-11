@@ -4,7 +4,6 @@
 **Formato:** Reunião assíncrona (Discord)
 **Sprint:** Sprint 2
 **Responsável pela condução:** Isabella Santos Leal (Scrum Master)
-
 ---
 
 # Participantes
