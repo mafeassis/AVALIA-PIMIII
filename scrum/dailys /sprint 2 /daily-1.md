@@ -3,6 +3,7 @@
 **Data:** 12/03/2026  
 **Formato:** Reunião via Discord  
 **Sprint:** Sprint 2 
+
 **Responsável pela condução:** Isabella Santos Leal (Scrum Master)
 
 ---
