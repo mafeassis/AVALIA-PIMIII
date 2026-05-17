@@ -1,111 +1,174 @@
-# Avalia+
+<h1 align="center">
+  <img src="./docs/assets/AVALIA +.svg" alt="Avalia+" width="300"/>
+</h1>
 
-Projeto desenvolvido para o **PIM III** do curso de **Análise e Desenvolvimento de Sistemas**.
+<p align="center">
+  <b>Plataforma web de avaliação acadêmica para estudantes do ensino superior</b><br/>
+  PIM III – Projeto Integrado Multidisciplinar | ADS – UNIP 2026-1
+</p>
 
-A **Avalia+** é uma proposta de plataforma web de simulados acadêmicos voltada ao ensino superior, desenvolvida com foco na preparação para avaliações externas e na análise de desempenho educacional por competências.
-
----
-
-## Objetivo do Projeto
-
-O objetivo do projeto é **desenvolver uma plataforma digital** que permita que estudantes realizem simulados acadêmicos estruturados, com correção automática e geração de indicadores de desempenho.
-
-Além de apoiar a preparação dos alunos, o sistema também pretende fornecer dados que auxiliem instituições de ensino na identificação de dificuldades de aprendizagem e na tomada de decisões pedagógicas baseadas em indicadores.
-
----
-
-## Problema Identificado
-
-Muitos estudantes do ensino superior apresentam dificuldades em compreender o formato e o nível de complexidade das avaliações externas, especialmente em relação à interpretação de questões contextualizadas e à avaliação por competências.
-
-Além disso, instituições de ensino frequentemente não possuem ferramentas analíticas estruturadas que permitam identificar com precisão quais competências apresentam maior índice de dificuldade entre os alunos.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linguagem-C%23-239120?style=flat-square&logo=csharp"/>
+  <img src="https://img.shields.io/badge/Metodologia-Scrum-0052CC?style=flat-square"/>
+</p>
 
 ---
 
-## Proposta de Solução
+## 📌 Descrição do Desafio
 
-A plataforma **Avalia+** propõe o desenvolvimento de um sistema web que será capaz de:
-
-- Aplicar simulados acadêmicos digitais  
-- Registrar respostas dos estudantes  
-- Realizar correção automática das questões  
-- Apresentar resultados e desempenho individual  
-- Gerar indicadores de desempenho educacional  
-
-A proposta é permitir que estudantes acompanhem sua evolução acadêmica e que instituições tenham acesso a dados que auxiliem na melhoria dos resultados educacionais.
+Estudantes do ensino superior enfrentam dificuldades na preparação para avaliações acadêmicas por falta de ferramentas acessíveis e direcionadas. O **Avalia+** surge para resolver esse problema, oferecendo uma plataforma web onde alunos podem realizar simulados gerados automaticamente a partir de um banco de questões, acompanhar seu desempenho e identificar pontos de melhoria — tudo de forma gratuita e intuitiva.
 
 ---
 
-## Tecnologias Utilizadas
+## 📋 Backlog de Produto
 
-O projeto **está sendo desenvolvido** utilizando tecnologias comuns no desenvolvimento de aplicações web.
-
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-
-### Backend
-- C#
-
-### Banco de Dados
-- SQL Server
-
----
-
-## Ferramentas Utilizadas
-
-Durante o desenvolvimento do projeto **estão sendo utilizadas diferentes ferramentas** para apoio à modelagem, desenvolvimento do sistema, organização do trabalho em equipe e comunicação.
-
-### Desenvolvimento
-- Visual Studio – desenvolvimento do backend em C#  
-- Visual Studio Code – desenvolvimento e edição do frontend  
-
-### Banco de Dados
-- SQL Server – gerenciamento do banco de dados da aplicação  
-
-### Modelagem e Diagramas
-- Astah – criação de diagramas UML e modelagem do sistema  
-- Figma / FigJam – criação de fluxos de usuário e prototipação  
-
-### Controle de Versão
-- Git – controle de versões do projeto  
-- GitHub – hospedagem e gerenciamento do repositório  
-
-### Organização do Projeto
-- Trello – gerenciamento de tarefas e acompanhamento das sprints  
-- Google Drive – armazenamento e compartilhamento de documentos do projeto  
-
-### Comunicação da Equipe
-- Discord – realização das reuniões da equipe e dailys do projeto  
+| ID | Funcionalidade | Prioridade | Status |
+|----|---------------|------------|--------|
+| PB01 | Autenticação de usuários (login por e-mail e senha) | 🔴 Alta | 🔲 A fazer |
+| PB02 | Cadastro e gerenciamento de usuários (Aluno, Professor, Admin) | 🔴 Alta | 🔲 A fazer |
+| PB03 | Gerenciamento de questões (cadastro, edição, exclusão) | 🔴 Alta | 🔲 A fazer |
+| PB04 | Geração automática de simulados (10, 15 ou 20 questões) | 🔴 Alta | 🔲 A fazer |
+| PB05 | Realização de simulados online | 🔴 Alta | 🔲 A fazer |
+| PB06 | Correção automática de simulados | 🔴 Alta | 🔲 A fazer |
+| PB07 | Histórico de simulados realizados | 🟡 Média | 🔲 A fazer |
+| PB08 | Relatórios de desempenho individual e por turma | 🟡 Média | 🔲 A fazer |
+| PB09 | Dashboards de desempenho | 🟡 Média | 🔲 A fazer |
+| PB10 | Controle de permissões por perfil de usuário | 🔴 Alta | 🔲 A fazer |
 
 ---
 
-## Metodologia de Desenvolvimento
+## 🗓️ Cronograma de Sprints
 
-O desenvolvimento do projeto segue princípios da metodologia ágil **Scrum**, permitindo organização incremental e evolução contínua do sistema por meio de ciclos de trabalho chamados **Sprints**.
+```
+Sprint 1 ──────────────────────────────── ✅ Concluída
+  Estrutura inicial, documentação e requisitos
 
----
-## Equipe do Projeto
+Sprint 2 ──────────────────────────────── ✅ Concluída
+  Modelagem do sistema (diagramas UML, MER, DER)
 
-Projeto desenvolvido pelos alunos do curso de **Análise e Desenvolvimento de Sistemas**.
+Sprint 3 ──────────────────────────────── 🔄 Em andamento
+  Desenvolvimento das funcionalidades principais
 
-**Gabriel Vinicius Rosa Pereira** – Desenvolvedor Frontend  
-Responsável pelo desenvolvimento da interface do usuário e implementação do frontend da aplicação.
-
-**Isabella Santos Leal** – Scrum Master & Desenvolvedora Backend  
-Responsável pela organização do projeto, desenvolvimento do protótipo, apoio na documentação, modelagem do sistema e definição da estrutura do projeto (requisitos, objetivos e organização geral) e responsável pelo desenvolvimento da lógica do sistema e implementação do backend utilizando C#.
-
-**Letícia Aparecida Santos Mota** – Banco de Dados  
-Responsável pela modelagem, estruturação e implementação do banco de dados do sistema.
-
-**Maria Fernanda de Assis** – Product Owner (PO)  
-Responsável pela organização da documentação do projeto, apoio na modelagem do sistema, estruturação dos requisitos e acompanhamento das definições do produto.
+Sprint 4 ──────────────────────────────── 🔲 Pendente
+  Análise, resultados e finalização da documentação
+```
 
 ---
 
-## Status do Projeto
+## 📅 Tabela de Sprints
 
-🚧 Projeto em desenvolvimento.
+| Sprint | Período | Documentação | Vídeo de Entrega |
+|--------|---------|-------------|-----------------|
+| Sprint 1 | Mar/2026 | [📄 Ver docs](./scrum/sprint%20planning/sprint-1-planning.md) | 🔗 Em breve |
+| Sprint 2 | Abr/2026 | [📄 Ver docs](./scrum/sprint%20planning/sprint-2-planning.md) | 🔗 Em breve |
+| Sprint 3 | Abr/2026 | [📄 Ver docs](./scrum/sprint%20planning/sprint-3-planning.md) | 🔗 Em breve |
+| Sprint 4 | Mai/2026 | 🔗 Em breve | 🔗 Em breve |
 
-Atualmente o projeto encontra-se nas fases de planejamento, modelagem do sistema e organização das sprints.
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Camada | Tecnologia |
+|--------|-----------|
+| Backend | C# |
+| Banco de Dados | SQL Server |
+| Frontend | HTML, CSS, JavaScript |
+| Metodologia | Scrum |
+| Versionamento | Git + GitHub |
+| Gerenciamento | Trello |
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+avalia-plus/
+│
+├── 📁 diagramas/
+│   ├── 📁 banco-de-dados/       # MER, DER, Dicionário de Dados
+│   ├── 📁 fluxo-de-usuario/     # Fluxos por perfil (Aluno, Prof, Admin)
+│   └── 📁 uml/                  # Casos de Uso, Classes, Sequência
+│
+├── 📁 docs/                     # Documentação técnica do PIM
+│
+├── 📁 scrum/
+│   ├── 📁 backlog/              # Backlog consolidado
+│   ├── 📁 product-backlog/      # Product Backlog detalhado
+│   ├── 📁 sprint-backlog/       # Backlogs por sprint
+│   ├── 📁 sprint-planning/      # Planejamentos de sprint
+│   ├── 📁 sprint-retrospective/ # Retrospectivas
+│   ├── 📁 sprint-review/        # Reviews de entrega
+│   └── 📁 dailys/               # Registros das dailys por sprint
+│
+└── 📄 README.md
+```
+
+---
+
+## ▶️ Como Executar o Projeto
+
+> ⚠️ O sistema está em desenvolvimento. As instruções de execução serão atualizadas conforme o progresso do projeto.
+
+```bash
+# Clone o repositório
+git clone https://github.com/SEU_USUARIO/avalia-plus.git
+
+# Acesse a pasta do projeto
+cd avalia-plus
+
+# Em breve: instruções de build e execução do backend em C#
+```
+
+---
+
+## 📂 Documentação Completa
+
+Acesse a pasta [`/docs`](./docs/) para consultar toda a documentação técnica do projeto, incluindo:
+
+- Requisitos do sistema
+- Regras de negócio
+- Escopo do projeto
+- Tipos de usuários
+- Metodologia de desenvolvimento (Scrum)
+- Documento de gerenciamento de backlogs
+
+---
+
+## 👥 Equipe
+
+<table align="center">
+  <tr> 
+    <td align="center">
+      <img src="./docs/assets/Gabriel.jpeg" width="120px" style="border-radius: 50%;" alt="Gabriel"/><br/>
+      <b>Gabriel Vinicius Rosa Pereira</b><br/>
+      Desenvolvedor / Diagramas<br/>
+      <a href="https://github.com/GabrielVRosa">GitHub</a> · <a href="https://www.linkedin.com/in/gabriel-vinicius-6a6059352/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="./docs/assets/Isabella.jpeg" width="120px" style="border-radius: 50%;" alt="Isabella"/><br/>
+      <b>Isabella Santos Leal</b><br/>
+      Scrum Master / Backend<br/>
+      <a href="https://github.com/IsabellaLeal06">GitHub</a> · <a href="https://www.linkedin.com/in/isabella-santos-1148b02b9/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="./docs/assets/Leticia.jpeg" width="120px" style="border-radius: 50%;" alt="Letícia"/><br/>
+      <b>Letícia Aparecida Santos Mota</b><br/>
+      Desenvolvedora / BD<br/>
+      <a href="https://github.com/Jmclemota">GitHub</a> · <a href="https://www.linkedin.com/in/let%C3%ADcia-aparecida-a465b7313/">LinkedIn</a>
+    </td>
+    <td align="center">
+      <img src="./docs/assets/Maria.jpeg" width="120px" style="border-radius: 50%;" alt="Maria Fernanda"/><br/>
+      <b>Maria Fernanda de Assis</b><br/>
+      Documentação / UML<br/>
+      <a href="https://github.com/mafeassis">GitHub</a> · <a href="https://www.linkedin.com/in/maria-fernanda-de-assis-1a1414252/?skipRedirect=true">LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+
+<p align="center">
+  Desenvolvido com 💙 pela equipe Avalia+ · PIM III · UNIP 2026-1
+</p>
