@@ -1,11 +1,25 @@
-# Fluxo de Usuário – Projeto Avalia+
+# 🔀 MF_Fluxo de Usuário – Projeto Avalia+
 
-Esta pasta contém o **Fluxo de Usuário (User Flow)** do projeto Avalia+.
-
-O fluxo de usuário representa o caminho percorrido pelos usuários dentro do sistema, desde o acesso inicial até a execução das funcionalidades.
+Esta pasta contém os diagramas de fluxo de navegação dos usuários da plataforma Avalia+, organizados por perfil de acesso.
 
 ---
 
-## Objetivo do Fluxo de Usuário
+## 📁 Arquivos
 
-O fluxo de usuário tem como objetivo mapear a navegação dentro do sistema, facilitando a organização da interface, a experiência do usuário e o desenvolvimento das funcionalidades.
+| Arquivo | Perfil |
+|---------|--------|
+| `Fluxo de Usuário - Administrador.pdf` | Administrador |
+| `Fluxo de Usuário - Professor.pdf` | Professor |
+| `Fluxo de Usuário - Aluno.pdf` | Aluno |
+
+---
+
+## 📋 Sobre os Fluxos
+
+Os fluxos de usuário mapeiam a **navegação dentro da plataforma** para cada perfil, mostrando as telas disponíveis e os caminhos possíveis a partir de cada ação.
+
+| Perfil | Funcionalidades principais |
+|--------|---------------------------|
+| **Aluno** | Login → Gerar simulado → Realizar simulado → Ver resultado → Histórico |
+| **Professor** | Login → Dashboard de turmas → Indicadores por aluno |
+| **Administrador** | Login → Gerenciar usuários → Gerenciar questões → Relatórios |
