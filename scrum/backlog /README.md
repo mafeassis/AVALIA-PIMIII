@@ -1,11 +1,23 @@
-# Backlog – Projeto Avalia+
+# 📌 Backlog – Projeto Avalia+
 
-Esta pasta contém os **Backlogs** do projeto Avalia+.
-
-Os Backlogs representam a organização e o planejamento das atividades do sistema, incluindo as funcionalidades, modelagem e tarefas necessárias para o desenvolvimento.
+Esta pasta contém o backlog consolidado do projeto Avalia+, reunindo as funcionalidades priorizadas para o desenvolvimento da plataforma.
 
 ---
 
-## Objetivo do Backlog
+## 📁 Arquivos
 
-O Backlog tem como objetivo organizar, priorizar e estruturar todas as atividades do projeto, servindo como base para o planejamento das Sprints e acompanhamento do desenvolvimento do sistema.
+| Arquivo | Descrição |
+|---------|-----------|
+| `backlog.md` | Lista consolidada de todos os itens do backlog |
+
+---
+
+## 📋 Resumo do Backlog
+
+O backlog do projeto está dividido em três categorias:
+
+- **Funcionalidades do sistema** — itens diretamente relacionados ao desenvolvimento da plataforma
+- **Modelagem e diagramas** — atividades de representação estrutural do sistema
+- **Documentação do PIM** — elaboração do trabalho acadêmico
+
+Consulte o [Product Backlog completo](../product-backlog/product-backlog-avalia+.md) para ver todos os itens detalhados com prioridade e status.
