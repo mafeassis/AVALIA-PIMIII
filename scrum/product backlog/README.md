@@ -1,24 +1,27 @@
-# Product Backlog – Projeto Avalia+
+# 📦 MF_Product Backlog – Projeto Avalia+
 
-Esta pasta contém o **Product Backlog do projeto Avalia+**.
-
-O Product Backlog é uma lista organizada de **funcionalidades, requisitos e melhorias** que devem ser desenvolvidas no sistema ao longo do projeto.
-
-Essas funcionalidades são priorizadas e distribuídas nas sprints durante o planejamento do projeto.
+Esta pasta contém o Product Backlog completo e priorizado do projeto Avalia+.
 
 ---
 
-## Conteúdo da pasta
+## 📁 Arquivos
 
-- product-backlog-avalia+.md
+| Arquivo | Descrição |
+|---------|-----------|
+| `product-backlog-avalia+.md` | Product Backlog detalhado com todas as funcionalidades, modelagem e documentação |
 
 ---
 
-## Objetivo do Product Backlog
+## 📋 Sobre o Product Backlog
 
-O Product Backlog tem como finalidade:
+O Product Backlog é o principal artefato de planejamento do Scrum. Ele contém **todos os itens** que precisam ser desenvolvidos ou entregues ao longo do projeto, organizados por prioridade.
 
-- Definir as funcionalidades do sistema
-- Organizar as tarefas que deverão ser desenvolvidas
-- Priorizar o desenvolvimento das funcionalidades
-- Servir como base para o planejamento das sprints
+No projeto Avalia+, o backlog está estruturado em três grupos:
+
+| Grupo | Exemplos |
+|-------|---------|
+| 🖥️ Funcionalidades | Login, simulados, correção automática, dashboards |
+| 📐 Modelagem | Diagramas UML, MER, DER, Dicionário de Dados |
+| 📄 Documentação | Introdução, requisitos, metodologia, conclusão |
+
+O responsável pela manutenção e priorização do Product Backlog é o **Product Owner** da equipe.
