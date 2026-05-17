@@ -1,20 +1,20 @@
-# Sprint Backlog – Projeto Avalia+
+# 🗂️ MF_Sprint Backlog – Projeto Avalia+
 
-Esta pasta contém os registros dos **Sprint Backlogs** do projeto Avalia+.
-
-O Sprint Backlog representa o conjunto de tarefas selecionadas para cada sprint, com base no Product Backlog, detalhando o que será desenvolvido e executado pela equipe.
+Esta pasta contém os backlogs de cada sprint do projeto Avalia+, detalhando as tarefas selecionadas para desenvolvimento em cada ciclo.
 
 ---
 
-## Conteúdo da pasta
+## 📁 Arquivos
 
-* sprint-1-backlog.md
-* sprint-2-backlog.md
-* sprint-3-backlog.md
-* sprint-4-backlog.md
+| Arquivo | Sprint | Status |
+|---------|--------|--------|
+| `sprint-1-backlog.md` | Sprint 1 – Estrutura Inicial | ✅ Concluída |
+| `sprint-2-backlog.md` | Sprint 2 – Modelagem do Sistema | ✅ Concluída |
+| `sprint-3-backlog.md` | Sprint 3 – Desenvolvimento das Funcionalidades | 🔄 Em andamento |
+| `sprint-4-backlog.md` | Sprint 4 – Análise e Resultados | 🔲 Pendente |
 
 ---
 
-## Objetivo do Sprint Backlog
+## 📋 Sobre o Sprint Backlog
 
-O Sprint Backlog tem como objetivo organizar e detalhar as atividades que serão realizadas durante cada sprint, permitindo que a equipe acompanhe o progresso do desenvolvimento e mantenha o foco nas entregas planejadas.
+O Sprint Backlog é composto pelos itens selecionados do Product Backlog para serem executados durante uma sprint específica. Cada item inclui a descrição da tarefa, responsável e status de execução.
