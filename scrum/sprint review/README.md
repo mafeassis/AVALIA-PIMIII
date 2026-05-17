@@ -1,23 +1,24 @@
-# Sprint Review – Projeto Avalia+
+# ✅ MF_Sprint Review – Projeto Avalia+
 
-Esta pasta contém os registros das **Sprint Reviews** do projeto Avalia+.
-
-A Sprint Review ocorre ao final de cada sprint e tem como objetivo apresentar e avaliar as atividades e entregas realizadas durante o período.
+Esta pasta contém os registros das Sprint Reviews do projeto Avalia+.
 
 ---
 
-## Conteúdo da pasta
+## 📁 Arquivos
 
-- sprint-1-review.md
-- sprint-2-review.md
+| Arquivo | Sprint | Status |
+|---------|--------|--------|
+| `sprint-1-review.md` | Sprint 1 | ✅ Realizada |
+| `sprint-2-review.md` | Sprint 2 | ✅ Realizada |
+| `sprint-3-review.md` | Sprint 3 | ✅ Realizada |
 
 ---
 
-## Objetivo da Sprint Review
+## 📋 Sobre a Sprint Review
 
-A Sprint Review permite que a equipe:
+A Sprint Review ocorre ao final de cada sprint e tem como objetivo apresentar e avaliar as entregas realizadas durante o período. Nela, a equipe:
 
-- apresente o progresso do projeto
-- avalie as funcionalidades desenvolvidas
-- verifique se os objetivos da sprint foram atingidos
-- identifique ajustes necessários para as próximas etapas do projeto
+- Apresenta o **incremento funcional** entregue
+- Avalia se os **objetivos da sprint** foram atingidos
+- Coleta feedback sobre o progresso do projeto
+- Identifica ajustes para as próximas etapas
