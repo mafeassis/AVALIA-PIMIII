@@ -1,4 +1,4 @@
-# 🗂️ Sprint Backlog – Projeto Avalia+
+# 🗂️MF_Sprint Backlog – Projeto Avalia+
 
 Esta pasta contém os backlogs de cada sprint do projeto Avalia+, detalhando as tarefas selecionadas para desenvolvimento em cada ciclo.
 
