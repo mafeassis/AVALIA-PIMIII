@@ -1,105 +1,119 @@
-# Product Backlog – Projeto Avalia+
+# MF_Product Backlog – Projeto Avalia+
 
-## Descrição
+Esta pasta apresenta o **Product Backlog** do projeto **Avalia+**, contendo as funcionalidades, requisitos e atividades previstas para o desenvolvimento da plataforma.
 
-O **Product Backlog** reúne todas as funcionalidades e requisitos previstos para o desenvolvimento do sistema **Avalia+**.
+O backlog foi estruturado com base nas necessidades identificadas para o sistema e organizado de forma priorizada, permitindo o planejamento e execução das funcionalidades ao longo das sprints do projeto.
 
-O Avalia+ é uma plataforma web voltada para **simulados baseados em questões do ENADE**, com o objetivo de ajudar alunos do ensino superior a se prepararem para a prova e permitir que instituições acompanhem o desempenho acadêmico por meio de indicadores.
+---
 
-As funcionalidades foram organizadas em categorias para facilitar a priorização e o planejamento das sprints.
+# Sobre o Projeto
+
+O **Avalia+** é uma plataforma web de simulados acadêmicos desenvolvida para auxiliar estudantes no processo de preparação para avaliações educacionais, utilizando questões organizadas por disciplinas e competências.
+
+Além da realização de simulados, a plataforma permite o acompanhamento do desempenho dos usuários por meio de indicadores e dashboards, auxiliando na análise dos resultados obtidos.
 
 ---
 
 # Perfis de Usuário do Sistema
 
-O sistema possui três tipos principais de usuários:
+O sistema possui três perfis principais de usuários:
 
-* **Administrador**
-* **Professor**
-* **Aluno**
+| Perfil | Descrição |
+|---|---|
+| **Administrador** | Responsável pelo gerenciamento geral da plataforma |
+| **Professor** | Responsável pelo acompanhamento do desempenho dos alunos |
+| **Aluno** | Responsável pela realização dos simulados e acompanhamento do próprio desempenho |
 
-Cada perfil possui permissões e funcionalidades específicas dentro da plataforma.
-
----
-
-# Product Backlog
-
-## 1. Gestão de Usuários
-
-Funcionalidades responsáveis pela administração das contas do sistema.
-
-* Cadastro de usuários (aluno e professor) realizado pelo administrador
-* Visualização da lista de usuários cadastrados
-* Atualização de dados de usuários pelo administrador
-* Visualização de perfil do usuário
-* Controle de permissões por tipo de usuário
-* Autenticação de login no sistema (e-mail e senha)
+Cada perfil possui permissões específicas definidas pelo sistema de controle de acesso.
 
 ---
 
-## 2. Gestão de Questões
+# Estrutura do Product Backlog
 
-Funcionalidades relacionadas ao banco de questões utilizadas nos simulados.
-
-* Cadastro de questões no banco de dados
-* Classificação das questões por área de conhecimento
-* Classificação das questões por competência
-* Associação das questões a provas do ENADE
-* Edição e exclusão de questões cadastradas
-* Visualização das questões cadastradas
+As funcionalidades do sistema foram organizadas em categorias para facilitar a priorização e o gerenciamento do desenvolvimento.
 
 ---
 
-## 3. Simulados
+# Gestão de Usuários
 
-Funcionalidades responsáveis pela realização dos simulados pelos alunos.
+Funcionalidades relacionadas ao gerenciamento das contas do sistema.
 
-* Geração de simulados com base no banco de questões
-* Realização de simulados pelos alunos
-* Registro das respostas selecionadas
-* Correção automática das respostas
-* Exibição da pontuação final do aluno
-
----
-
-## 4. Relatórios e Indicadores
-
-Funcionalidades responsáveis pela análise de desempenho.
-
-* Visualização do desempenho do aluno no simulado
-* Relatórios de desempenho por área de conhecimento
-* Indicadores de desempenho para professores e coordenação
-* Identificação de competências com maior dificuldade
+- Cadastro de usuários realizado pelo administrador
+- Visualização da lista de usuários cadastrados
+- Atualização de dados de usuários
+- Controle de permissões por perfil
+- Autenticação de usuários por e-mail e senha
+- Visualização das informações de perfil
 
 ---
 
-## 5. Interface do Sistema
+#  Gestão de Questões
+
+Funcionalidades relacionadas ao banco de questões da plataforma.
+
+- Cadastro de questões no banco de dados
+- Edição de questões cadastradas
+- Exclusão de questões
+- Organização das questões por disciplina
+- Classificação das questões por competência
+- Visualização das questões cadastradas
+
+---
+
+# Simulados
+
+Funcionalidades responsáveis pela geração e realização dos simulados.
+
+- Geração automática de simulados
+- Seleção aleatória de questões
+- Realização de simulados online
+- Registro das respostas dos alunos
+- Correção automática dos simulados
+- Exibição da pontuação final
+- Histórico de simulados realizados
+
+---
+
+# Relatórios e Indicadores
+
+Funcionalidades relacionadas à análise de desempenho dos usuários.
+
+- Visualização do desempenho individual do aluno
+- Relatórios de desempenho por disciplina
+- Dashboards de indicadores de desempenho
+- Visualização de resultados por turma
+- Identificação de dificuldades de aprendizagem
+
+---
+
+# Interface do Sistema
 
 Funcionalidades relacionadas à navegação e experiência do usuário.
 
-* Tela de login do sistema
-* Dashboard principal
-* Página de simulados
-* Página de resultados
-* Página de perfil do usuário
-* Interface administrativa para gerenciamento do sistema
+- Tela de login
+- Dashboard principal
+- Página de simulados
+- Página de resultados
+- Página de perfil do usuário
+- Interface administrativa do sistema
+- Interface responsiva para diferentes dispositivos
 
 ---
 
 # Priorização Inicial
 
-As primeiras funcionalidades priorizadas para o desenvolvimento são:
+As primeiras funcionalidades priorizadas para o desenvolvimento da plataforma são:
 
-1. Autenticação de usuários
-2. Estrutura de cadastro de usuários
-3. Banco de questões
-4. Estrutura de simulados
-5. Registro e correção de respostas
+1. Autenticação de usuários  
+2. Estrutura de gerenciamento de usuários  
+3. Banco de questões  
+4. Geração de simulados  
+5. Registro e correção das respostas  
 
-Essas funcionalidades representam o **núcleo principal do sistema**.
+Essas funcionalidades representam o núcleo principal do sistema e servem como base para as demais implementações.
 
 ---
 
-# Observação
+# Atualização do Backlog
 
-O Product Backlog pode sofrer alterações ao longo do desenvolvimento do projeto, conforme novas necessidades ou melhorias sejam identificadas pela equipe.
+O Product Backlog poderá sofrer alterações ao longo do desenvolvimento do projeto, conforme novas necessidades, melhorias ou ajustes sejam identificados pela equipe durante as sprints.
