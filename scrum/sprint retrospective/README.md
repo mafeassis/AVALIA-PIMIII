@@ -1,16 +1,25 @@
-# Sprint Retrospective – Projeto Avalia+
+# 🔍 MF_Sprint Retrospective – Projeto Avalia+
 
-Esta pasta contém os registros das **Sprint Retrospectives** realizadas pela equipe durante o desenvolvimento do projeto Avalia+.
-
-A Sprint Retrospective é uma reunião interna da equipe que ocorre ao final de cada sprint, com o objetivo de analisar o processo de trabalho e identificar melhorias.
+Esta pasta contém os registros das retrospectivas realizadas ao final de cada sprint do projeto Avalia+.
 
 ---
 
-## Objetivo da Sprint Retrospective
+## 📁 Arquivos
 
-A Sprint Retrospective permite que a equipe:
+| Arquivo | Sprint | Status |
+|---------|--------|--------|
+| `sprint-1-retrospective.md` | Sprint 1 | ✅ Realizada |
+| `sprint-2-retrospective.md` | Sprint 2 | ✅ Realizada |
+| `sprint-3-retrospective.md` | Sprint 3 | ✅ Realizada |
 
-- reflita sobre o trabalho realizado
-- identifique pontos positivos do processo
-- reconheça dificuldades enfrentadas
-- proponha melhorias para as próximas sprints
+---
+
+## 📋 Sobre a Sprint Retrospective
+
+A Sprint Retrospective é a cerimônia de encerramento de cada sprint. Seu objetivo é avaliar o **processo de trabalho da equipe**, identificando:
+
+- O que funcionou bem e deve ser mantido
+- O que pode ser melhorado nas próximas sprints
+- Ações concretas para o próximo ciclo
+
+As retrospectivas são fundamentais para a **melhoria contínua** da equipe ao longo do projeto.
