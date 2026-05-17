@@ -1,4 +1,4 @@
-# 📌 Backlog – Projeto Avalia+
+# 📌 MA_Backlog – Projeto Avalia+
 
 Esta pasta contém o backlog consolidado do projeto Avalia+, reunindo as funcionalidades priorizadas para o desenvolvimento da plataforma.
 
