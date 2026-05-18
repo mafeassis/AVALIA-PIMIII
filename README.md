@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./docs/assets/AVALIA +.svg" alt="Avalia+" width="300"/>
+  <img src=""C:\Users\mfern\OneDrive\Documentos\avalia-plus\docs\assets\AVALIA +.svg.svg"/>
 </h1>
 
 <p align="center">
