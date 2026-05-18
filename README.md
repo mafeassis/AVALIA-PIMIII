@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./docs/assets/AVALIA +.svg" alt="Avalia+" width="300"/>
+  <img src="./MF_documentos/assets/AVALIA +.svg" alt="Avalia+" width="300"/>
 </h1>
 
 <p align="center">
@@ -140,25 +140,25 @@ Acesse a pasta [`/docs`](./docs/) para consultar toda a documentação técnica 
 <table align="center">
   <tr> 
     <td align="center">
-      <img src="./docs/assets/Gabriel.jpeg" width="120px" style="border-radius: 50%;" alt="Gabriel"/><br/>
+      <img src="./MF_documentos/assets/Gabriel.jpeg" width="120px" style="border-radius: 50%;" alt="Gabriel"/><br/>
       <b>Gabriel Vinicius Rosa Pereira</b><br/>
       Desenvolvedor / Diagramas<br/>
       <a href="https://github.com/GabrielVRosa">GitHub</a> · <a href="https://www.linkedin.com/in/gabriel-vinicius-6a6059352/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="./docs/assets/Isabella.jpeg" width="120px" style="border-radius: 50%;" alt="Isabella"/><br/>
+      <img src="./MF_documentos/assets/Isabella.jpeg" width="120px" style="border-radius: 50%;" alt="Isabella"/><br/>
       <b>Isabella Santos Leal</b><br/>
       Scrum Master / Backend<br/>
       <a href="https://github.com/IsabellaLeal06">GitHub</a> · <a href="https://www.linkedin.com/in/isabella-santos-1148b02b9/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="./docs/assets/Leticia.jpeg" width="120px" style="border-radius: 50%;" alt="Letícia"/><br/>
+      <img src="./MF_documentos/assets/Leticia.jpeg" width="120px" style="border-radius: 50%;" alt="Letícia"/><br/>
       <b>Letícia Aparecida Santos Mota</b><br/>
       Desenvolvedora / BD<br/>
       <a href="https://github.com/Jmclemota">GitHub</a> · <a href="https://www.linkedin.com/in/let%C3%ADcia-aparecida-a465b7313/">LinkedIn</a>
     </td>
     <td align="center">
-      <img src="./docs/assets/Maria.jpeg" width="120px" style="border-radius: 50%;" alt="Maria Fernanda"/><br/>
+      <img src="./MF_documentos/assets/Maria.jpeg" width="120px" style="border-radius: 50%;" alt="Maria Fernanda"/><br/>
       <b>Maria Fernanda de Assis</b><br/>
       Documentação / UML<br/>
       <a href="https://github.com/mafeassis">GitHub</a> · <a href="https://www.linkedin.com/in/maria-fernanda-de-assis-1a1414252/?skipRedirect=true">LinkedIn</a>
