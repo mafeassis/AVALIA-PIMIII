@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".docs/assets/MF_documentos" width="300"/>
+  <img src="./docs/assets/AVALIA +.svg" alt="Avalia+" width="300"/>
 </h1>
 
 <p align="center">
